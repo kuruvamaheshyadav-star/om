@@ -1,9 +1,14 @@
+*{
+    background-color: blue;
+    color: white;
+}
+
 .heading{
     background-color: blueviolet;
 }
 .info{
-    background-color: chartreuse;
+    background-color: pink;
 }
-.a{
-    background-color: darkmagenta;
+#a{
+    background-color: yellow;
 }
